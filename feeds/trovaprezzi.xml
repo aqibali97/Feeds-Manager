@@ -325,60 +325,6 @@
 <ageGroup/>
 </Offer>
 <Offer>
-<Name>Cavo di ricarica USB-C 240W (2 m)</Name>
-<Brand>APPLE</Brand>
-<Description>Cavo di ricarica USB-C 240W (2 m) - Il cavo di ricarica veloce e affidabile per i tuoi dispositivi Apple ad alta potenza.</Description>
-<OriginalPrice/>
-<Price>18.99</Price>
-<Code>DE449651506</Code>
-<Link>https://bosaverna.de/it/products/usb-c-240w-charge-cable2m</Link>
-<Stock>100</Stock>
-<Categories>Caricabatterie per telefoni e smartphone</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/Usb-c240wChargeCable_2m.jpg?v=1771102140&amp;width=800</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>195949093432</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2/>
-<Image3/>
-<Gender/>
-<Tag>Apple, USB-C, 240W, Charging Cable</Tag>
-<Condition>new</Condition>
-<Minsan/>
-<CodiceProduttore/>
-<Tipologia>Charging Cable</Tipologia>
-<Category>Electronics > Electronics Accessories > Cables &amp; Chargers</Category>
-<ageGroup/>
-</Offer>
-<Offer>
-<Name>Cavo di ricarica Apple USB-C da 240 W, 2 m, bianco</Name>
-<Brand>APPLE</Brand>
-<Description>Cavo di ricarica Apple USB-C da 240 W, 2 m, bianco - Ricarica ad alta velocità per i tuoi MacBook e dispositivi Apple.</Description>
-<OriginalPrice/>
-<Price>18.99</Price>
-<Code>DE449651507</Code>
-<Link>https://bosaverna.de/it/products/usb-c-240w-charge-cable2m</Link>
-<Stock>100</Stock>
-<Categories>Caricabatterie per telefoni e smartphone</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/Usb-c240wChargeCable_2m.jpg?v=1771102140&amp;width=800</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>195949775390</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2/>
-<Image3/>
-<Gender/>
-<Tag>Apple, USB-C, 240W, Charging Cable</Tag>
-<Condition>new</Condition>
-<Minsan/>
-<CodiceProduttore/>
-<Tipologia>Charging Cable</Tipologia>
-<Category>Electronics > Electronics Accessories > Cables &amp; Chargers</Category>
-<ageGroup/>
-</Offer>
-<Offer>
 <Name>Cavo USB-C a Lightning (1 m), bianco</Name>
 <Brand>APPLE</Brand>
 <Description>Cavo USB-C a Lightning (1 m), bianco - Cavo di ricarica affidabile e duraturo per i tuoi dispositivi Apple.</Description>
@@ -784,33 +730,6 @@
 <ageGroup/>
 </Offer>
 <Offer>
-<Name>Alimentatore USB-C da 20 W + Cavo da USB-C a Lightning da 240 W</Name>
-<Brand>Apple</Brand>
-<Description>Alimentatore USB-C da 20 W + Cavo da USB-C a Lightning da 240 W</Description>
-<OriginalPrice>23.99</OriginalPrice>
-<Price>29.99</Price>
-<Code>DE449651733</Code>
-<Link>https://bosaverna.de/it/products/usb-c-240w-charge-cable2m-originalverpackt-copy?_pos=1&amp;_sid=354fc387c&amp;_ss=r</Link>
-<Stock>100</Stock>
-<Categories>Phone, Smartphone Chargers</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/1024x1024-1.jpg?v=1771101191&amp;width=800</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>885909611611</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2>https://bosaverna.de/cdn/shop/files/Screenshot_10.jpg?v=1771922808&amp;width=600</Image2>
-<Image3>https://bosaverna.de/cdn/shop/files/Screenshot_10.jpg?v=1771922808&amp;width=600</Image3>
-<Gender/>
-<Tag>Phone, Smartphone Chargers</Tag>
-<Condition>new</Condition>
-<Minsan/>
-<CodiceProduttore>MX0K2ZM/A</CodiceProduttore>
-<Tipologia>Phone, Smartphone Chargers</Tipologia>
-<Category>Phone, Smartphone Chargers</Category>
-<ageGroup/>
-</Offer>
-<Offer>
 <Name>Apple Alimentatore da 35W con Doppia Porta USB-C MW2K3ZM/A</Name>
 <Brand>APPLE</Brand>
 <Description>Questo adattatore offre una potenza di 35 watt e si adatta perfettamente ai tuoi dispositivi Apple, fornendo una ricarica sicura e affidabile.</Description>
@@ -857,6 +776,60 @@
 <Image3/>
 <Gender/>
 <Tag>Apple, USB-C, 35W, Dual Port</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Alimentatore Apple da 70 W con porta USB-C MXN53ZM/A</Name>
+<Brand>APPLE</Brand>
+<Description>Alimentatore Apple da 70 W con porta USB-C - Nuovo Grazie alla porta USB-C, questo alimentatore Apple E ideale per ricaricare dispositivi come i MacBook. Il caricabatterie eroga 70 watt di potenza, garantendo una ricarica super veloce.</Description>
+<OriginalPrice/>
+<Price>51.99</Price>
+<Code>DE449651500D2</Code>
+<Link>https://bosaverna.de/it/products/apple-70w-usb-c-power-adapter-mxn53zm-a</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/APPLE70WUSB-CADAPTER.webp?v=1770644087&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>195949686283</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 70W, Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Alimentatore Apple da 70 W con porta USB-C MXN53ZM/A</Name>
+<Brand>APPLE</Brand>
+<Description>Alimentatore Apple da 70 W con porta USB-C - Nuovo Grazie alla porta USB-C, questo alimentatore Apple E ideale per ricaricare dispositivi come i MacBook. Il caricabatterie eroga 70 watt di potenza, garantendo una ricarica super veloce.</Description>
+<OriginalPrice/>
+<Price>51.99</Price>
+<Code>DE449651539D</Code>
+<Link>https://bosaverna.de/it/products/apple-70w-usb-c-power-adapter-mqln3zm-a</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/APPLE70WUSB-CADAPTER_3aa3e08c-d44e-4949-a7d9-326a87c3b3f7.webp?v=1775433265&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>194253789697</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 70W, Charger</Tag>
 <Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore/>
