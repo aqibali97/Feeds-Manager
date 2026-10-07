@@ -756,4 +756,58 @@
 <Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
 <ageGroup/>
 </Offer>
+<Offer>
+    <Name>Apple Alimentatore USB-C 30W MW2G3ZM/A</Name>
+    <Brand>APPLE</Brand>
+    <Description>Scopri la potenza e la versatilita del caricabatterie Apple da 30 W con USB-C, il caricabatterie Apple si integra perfettamente nel tuo stile di vita dinamico.</Description>
+    <OriginalPrice />
+    <Price>31.99</Price>
+    <Code>DE449651521</Code>
+    <Link>https://bosaverna.de/it/products/apple-30w-usb-c-power-adapter-originalverpackt</Link>
+    <Stock>100</Stock>
+    <Categories>Phone, Smartphone Chargers</Categories>
+    <Image>https://bosaverna.de/cdn/shop/files/APPLE30WUSB-CPOWERADAPTEREUSPEC.webp?v=1770644087&amp;width=600</Image>
+    <ShippingCost>3.00</ShippingCost>
+    <EanCode>0195949376511</EanCode>
+    <Size />
+    <Color />
+    <Material />
+    <Image2 />
+    <Image3 />
+    <Gender />
+    <Tag>Apple, USB-C, 30W, Charger</Tag>
+    <Condition>new</Condition>
+    <Minsan />
+    <CodiceProduttore />
+    <Tipologia>Power Adapter</Tipologia>
+    <Category>Electronics &gt; Electronics Accessories &gt; Power &gt; Power Adapters &amp; Chargers</Category>
+    <ageGroup />
+  </Offer>
+  <Offer>
+    <Name>Caricabatterie Apple MagSafe da 15 Watt, cavo da 1 m, bianco MHXH3ZM/A</Name>
+    <Brand>APPLE</Brand>
+    <Description>Caricabatterie Apple MagSafe da 15 Watt, cavo da 1 m, bianco MHXH3ZM/A - Ricarica wireless affidabile e veloce per i tuoi dispositivi Apple.</Description>
+    <OriginalPrice />
+    <Price>19.99</Price>
+    <Code>DE449651503</Code>
+    <Link>https://bosaverna.de/it/products/magsafe-charger-15w</Link>
+    <Stock>100</Stock>
+    <Categories>Caricabatterie per telefoni e smartphone</Categories>
+    <Image>https://bosaverna.de/cdn/shop/files/MagsafeCharger15wv1.jpg?v=1771101622&amp;width=800</Image>
+    <ShippingCost>3.00</ShippingCost>
+    <EanCode>194252192467</EanCode>
+    <Size />
+    <Color />
+    <Material />
+    <Image2 />
+    <Image3 />
+    <Gender />
+    <Tag>Apple, MagSafe, 15W, Wireless Charger</Tag>
+    <Condition>new</Condition>
+    <Minsan />
+    <CodiceProduttore />
+    <Tipologia>Wireless Charger</Tipologia>
+    <Category>Electronics &gt; Electronics Accessories &gt; Power &gt; Wireless Chargers</Category>
+    <ageGroup />
+  </Offer>
 </Products>
