@@ -163,60 +163,6 @@
 <ageGroup/>
 </Offer>
 <Offer>
-<Name>Apple AirPods Pro (2a generazione)</Name>
-<Brand>APPLE</Brand>
-<Description>La condizione del prodotto è ricondizionato (usato). L'articolo è perfettamente funzionante. Goditi la cancellazione attiva del rumore e l'audio 3D personalizzato.</Description>
-<OriginalPrice/>
-<Price>139.99</Price>
-<Code>DEE8512831158</Code>
-<Link>https://bosaverna.de/it/products/jbl-tune-510bt-weiss-copy</Link>
-<Stock>100</Stock>
-<Categories>headphones</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/AIRPODSPRO2ndgenerationLightning_REFURBISHED.png?v=1776905914&amp;width=600</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>195949052637</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2/>
-<Image3/>
-<Gender/>
-<Tag>Apple, AirPods Pro, Headphones</Tag>
-<Condition>refurbished</Condition>
-<Minsan/>
-<CodiceProduttore/>
-<Tipologia>Headphones</Tipologia>
-<Category>Electronics > Audio > Headphones &amp; Earbuds</Category>
-<ageGroup/>
-</Offer>
-<Offer>
-<Name>Apple AirPods Pro 2 con custodia di ricarica MagSafe Lightning ricondizionate</Name>
-<Brand>APPLE</Brand>
-<Description>Gli AirPods Pro (2a generazione) sono stati riprogettati e offrono una cancellazione attiva del rumore fino a 2 volte migliore. L'Adaptive Transparenza filtra i suoni esterni mentre ti immergi nell'audio personalizzato 3D.</Description>
-<OriginalPrice/>
-<Price>136.99</Price>
-<Code>DEE85128311591</Code>
-<Link>https://bosaverna.de/it/products/airpods-pro-2nd-generation-2023-magsafe-case-usb-c-refurbished-copy</Link>
-<Stock>100</Stock>
-<Categories>headphones</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/AIRPODSPRO2ndgenerationLightning_REFURBISHED_front.jpg?v=1776905136&amp;width=600</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>194253397472</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2/>
-<Image3/>
-<Gender/>
-<Tag>Apple, AirPods Pro, Headphones, MagSafe</Tag>
-<Condition>refurbished</Condition>
-<Minsan/>
-<CodiceProduttore/>
-<Tipologia>Headphones</Tipologia>
-<Category>Electronics > Audio > Headphones &amp; Earbuds</Category>
-<ageGroup/>
-</Offer>
-<Offer>
 <Name>Cavo di ricarica magnetico per Apple Watch bianco - 1 m</Name>
 <Brand>APPLE</Brand>
 <Description>Volevamo rendere la ricarica dell'Apple Watch il piu semplice possibile. La soluzione: una combinazione della nostra tecnologia MagSafe e della ricarica induttiva. Si tratta di un sistema completamente sigillato senza contatti esposti che perdona piccoli errori durante il posizionamento dell'Apple Watch sul connettore.</Description>
@@ -757,57 +703,138 @@
 <ageGroup/>
 </Offer>
 <Offer>
-    <Name>Apple Alimentatore USB-C 30W MW2G3ZM/A</Name>
-    <Brand>APPLE</Brand>
-    <Description>Scopri la potenza e la versatilita del caricabatterie Apple da 30 W con USB-C, il caricabatterie Apple si integra perfettamente nel tuo stile di vita dinamico.</Description>
-    <OriginalPrice />
-    <Price>31.99</Price>
-    <Code>DE449651521</Code>
-    <Link>https://bosaverna.de/it/products/apple-30w-usb-c-power-adapter-originalverpackt</Link>
-    <Stock>100</Stock>
-    <Categories>Phone, Smartphone Chargers</Categories>
-    <Image>https://bosaverna.de/cdn/shop/files/APPLE30WUSB-CPOWERADAPTEREUSPEC.webp?v=1770644087&amp;width=600</Image>
-    <ShippingCost>3.00</ShippingCost>
-    <EanCode>0195949376511</EanCode>
-    <Size />
-    <Color />
-    <Material />
-    <Image2 />
-    <Image3 />
-    <Gender />
-    <Tag>Apple, USB-C, 30W, Charger</Tag>
-    <Condition>new</Condition>
-    <Minsan />
-    <CodiceProduttore />
-    <Tipologia>Power Adapter</Tipologia>
-    <Category>Electronics &gt; Electronics Accessories &gt; Power &gt; Power Adapters &amp; Chargers</Category>
-    <ageGroup />
-  </Offer>
-  <Offer>
-    <Name>Caricabatterie Apple MagSafe da 15 Watt, cavo da 1 m, bianco MHXH3ZM/A</Name>
-    <Brand>APPLE</Brand>
-    <Description>Caricabatterie Apple MagSafe da 15 Watt, cavo da 1 m, bianco MHXH3ZM/A - Ricarica wireless affidabile e veloce per i tuoi dispositivi Apple.</Description>
-    <OriginalPrice />
-    <Price>19.99</Price>
-    <Code>DE449651503</Code>
-    <Link>https://bosaverna.de/it/products/magsafe-charger-15w</Link>
-    <Stock>100</Stock>
-    <Categories>Caricabatterie per telefoni e smartphone</Categories>
-    <Image>https://bosaverna.de/cdn/shop/files/MagsafeCharger15wv1.jpg?v=1771101622&amp;width=800</Image>
-    <ShippingCost>3.00</ShippingCost>
-    <EanCode>194252192467</EanCode>
-    <Size />
-    <Color />
-    <Material />
-    <Image2 />
-    <Image3 />
-    <Gender />
-    <Tag>Apple, MagSafe, 15W, Wireless Charger</Tag>
-    <Condition>new</Condition>
-    <Minsan />
-    <CodiceProduttore />
-    <Tipologia>Wireless Charger</Tipologia>
-    <Category>Electronics &gt; Electronics Accessories &gt; Power &gt; Wireless Chargers</Category>
-    <ageGroup />
-  </Offer>
+<Name>Apple Alimentatore USB-C 30W MW2G3ZM/A</Name>
+<Brand>APPLE</Brand>
+<Description>Scopri la potenza e la versatilita del caricabatterie Apple da 30 W con USB-C, il caricabatterie Apple si integra perfettamente nel tuo stile di vita dinamico.</Description>
+<OriginalPrice/>
+<Price>31.99</Price>
+<Code>DE449651521</Code>
+<Link>https://bosaverna.de/it/products/apple-30w-usb-c-power-adapter-originalverpackt</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/APPLE30WUSB-CPOWERADAPTEREUSPEC.webp?v=1770644087&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>0195949376511</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 30W, Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Caricabatterie Apple MagSafe da 15 Watt, cavo da 1 m, bianco MHXH3ZM/A</Name>
+<Brand>APPLE</Brand>
+<Description>Caricabatterie Apple MagSafe da 15 Watt, cavo da 1 m, bianco MHXH3ZM/A - Ricarica wireless affidabile e veloce per i tuoi dispositivi Apple.</Description>
+<OriginalPrice/>
+<Price>19.99</Price>
+<Code>DE449651503</Code>
+<Link>https://bosaverna.de/it/products/magsafe-charger-15w</Link>
+<Stock>100</Stock>
+<Categories>Caricabatterie per telefoni e smartphone</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/MagsafeCharger15wv1.jpg?v=1771101622&amp;width=800</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>194252192467</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, MagSafe, 15W, Wireless Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Wireless Charger</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Wireless Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Alimentatore Apple USB-C da 20 W</Name>
+<Brand>APPLE</Brand>
+<Description>Alimentatore Apple da 20 W con porta USB-C L'alimentatore Apple da 20 W con porta USB-C consente una ricarica rapida ed efficiente a casa, in ufficio o in viaggio. Sebbene sia compatibile con tutti i dispositivi dotati di porta USB-C, Apple consiglia di utilizzarlo con iPad Pro e iPad Air per prestazioni di ricarica ottimali. E possibile utilizzarlo anche con iPhone 8 o modelli successivi per sfruttare la ricarica rapida. MagSafe MagSafe E un accessorio colorato che si aggancia magneticamente all'iPhone, aggiungendo un tocco personale e consentendo la ricarica wireless. Con infinite combinazioni, ce n'E per tutti i gusti.</Description>
+<OriginalPrice/>
+<Price>15.99</Price>
+<Code>DE449651514</Code>
+<Link>https://bosaverna.de/it/products/apple-usb-c-20w-adapter</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/Apple_USB-C_Power_Adapter_20W_Front.png?v=1771101095&amp;width=800</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>194252157022</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 20W, Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Alimentatore Apple USB-C da 20 W (MUVV3ZM/A)</Name>
+<Brand>APPLE</Brand>
+<Description>Alimentatore Apple da 20 W con porta USB-C L'alimentatore Apple da 20 W con porta USB-C consente una ricarica rapida ed efficiente a casa, in ufficio o in viaggio. Sebbene sia compatibile con tutti i dispositivi dotati di porta USB-C, Apple consiglia di utilizzarlo con iPad Pro e iPad Air per prestazioni di ricarica ottimali. E possibile utilizzarlo anche con iPhone 8 o modelli successivi per sfruttare la ricarica rapida. MagSafe MagSafe E un accessorio colorato che si aggancia magneticamente all'iPhone, aggiungendo un tocco personale e consentendo la ricarica wireless. Con infinite combinazioni, ce n'E per tutti i gusti.</Description>
+<OriginalPrice/>
+<Price>15.99</Price>
+<Code>DE449651514D</Code>
+<Link>https://bosaverna.de/it/products/apple-usb-c-20w-adapter</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/Apple_USB-C_Power_Adapter_20W_Front.png?v=1771101095&amp;width=800</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>195949121296</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 20W, Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Alimentatore Apple da 20 W con porta USB-C (MD3J4ZM/A)</Name>
+<Brand>APPLE</Brand>
+<Description>Alimentatore Apple da 20 W con porta USB-C L'alimentatore Apple da 20 W con porta USB-C consente una ricarica rapida ed efficiente a casa, in ufficio o in viaggio. Sebbene sia compatibile con tutti i dispositivi dotati di porta USB-C, Apple consiglia di utilizzarlo con iPad Pro e iPad Air per prestazioni di ricarica ottimali. E possibile utilizzarlo anche con iPhone 8 o modelli successivi per sfruttare la ricarica rapida. MagSafe MagSafe E un accessorio colorato che si aggancia magneticamente all'iPhone, aggiungendo un tocco personale e consentendo la ricarica wireless. Con infinite combinazioni, ce n'E per tutti i gusti.</Description>
+<OriginalPrice/>
+<Price>15.99</Price>
+<Code>DE449651514D1</Code>
+<Link>https://bosaverna.de/it/products/apple-usb-c-20w-adapter</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/Apple_USB-C_Power_Adapter_20W_Front.png?v=1771101095&amp;width=800</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>195950084658</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 20W, Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
 </Products>
