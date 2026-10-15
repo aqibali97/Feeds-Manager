@@ -163,6 +163,33 @@
 <ageGroup/>
 </Offer>
 <Offer>
+<Name>Apple AirPods Pro (2a generazione)</Name>
+<Brand>APPLE</Brand>
+<Description>La condizione del prodotto è ricondizionato (usato). L'articolo è perfettamente funzionante. Goditi la cancellazione attiva del rumore e l'audio 3D personalizzato.</Description>
+<OriginalPrice/>
+<Price>139.99</Price>
+<Code>DEE8512831158</Code>
+<Link>https://bosaverna.de/it/products/jbl-tune-510bt-weiss-copy</Link>
+<Stock>100</Stock>
+<Categories>headphones</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/AIRPODSPRO2ndgenerationLightning_REFURBISHED.png?v=1776905914&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>195949052637</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, AirPods Pro, Headphones</Tag>
+<Condition>refurbished</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Headphones</Tipologia>
+<Category>Electronics > Audio > Headphones &amp; Earbuds</Category>
+<ageGroup/>
+</Offer>
+<Offer>
 <Name>Cavo di ricarica magnetico per Apple Watch bianco - 1 m</Name>
 <Brand>APPLE</Brand>
 <Description>Volevamo rendere la ricarica dell'Apple Watch il piu semplice possibile. La soluzione: una combinazione della nostra tecnologia MagSafe e della ricarica induttiva. Si tratta di un sistema completamente sigillato senza contatti esposti che perdona piccoli errori durante il posizionamento dell'Apple Watch sul connettore.</Description>
@@ -214,33 +241,6 @@
 <CodiceProduttore/>
 <Tipologia>Wireless Charger</Tipologia>
 <Category>Electronics > Electronics Accessories > Power > Wireless Chargers</Category>
-<ageGroup/>
-</Offer>
-<Offer>
-<Name>Adattatore di alimentazione Apple da 20 W USB-C + cavo da USB-C a Lightning da 2 m – Pacchetto</Name>
-<Brand>APPLE</Brand>
-<Description>Adattatore di alimentazione Apple da 20 W USB-C + cavo da USB-C a Lightning da 2 m – Pacchetto | Ricarica rapida, bianco (confezione originale).</Description>
-<OriginalPrice/>
-<Price>23.99</Price>
-<Code>DE449651501</Code>
-<Link>https://bosaverna.de/it/products/apple-20w-usb-c-power-adapter-2m-usb-c-to-lightning-cable</Link>
-<Stock>100</Stock>
-<Categories>Caricabatterie per telefoni e smartphone</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/Screenshot_10.jpg?v=1771922808&amp;width=600</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>4260723913384</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2/>
-<Image3/>
-<Gender/>
-<Tag>Apple, USB-C, Lightning, Bundle, Charger</Tag>
-<Condition>new</Condition>
-<Minsan/>
-<CodiceProduttore/>
-<Tipologia>Power Adapter &amp; Cable Bundle</Tipologia>
-<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
 <ageGroup/>
 </Offer>
 <Offer>
@@ -622,33 +622,6 @@
 <ageGroup/>
 </Offer>
 <Offer>
-<Name>Alimentatore USB-C Apple da 20 W + cavo da USB-C a Lightning da 2 m</Name>
-<Brand>Apple</Brand>
-<Description>Alimentatore USB-C Apple da 20 W + cavo da USB-C a Lightning da 2 m</Description>
-<OriginalPrice>23.99</OriginalPrice>
-<Price>23.99</Price>
-<Code>DE449651732</Code>
-<Link>https://bosaverna.de/it/products/apple-20w-usb-c-power-adapter-2m-usb-c-to-lightning-cable</Link>
-<Stock>100</Stock>
-<Categories>Phone, Smartphone Chargers</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/Screenshot_10.jpg?v=1771922808&amp;width=600</Image>
-<ShippingCost>3.00</ShippingCost>
-<EanCode>885909611610</EanCode>
-<Size/>
-<Color/>
-<Material/>
-<Image2>https://bosaverna.de/cdn/shop/files/Screenshot_10.jpg?v=1771922808&amp;width=600</Image2>
-<Image3>https://bosaverna.de/cdn/shop/files/Screenshot_10.jpg?v=1771922808&amp;width=600</Image3>
-<Gender/>
-<Tag>Phone, Smartphone Chargers</Tag>
-<Condition>new</Condition>
-<Minsan/>
-<CodiceProduttore>MX0K2ZM/A</CodiceProduttore>
-<Tipologia>Phone, Smartphone Chargers</Tipologia>
-<Category>Phone, Smartphone Chargers</Category>
-<ageGroup/>
-</Offer>
-<Offer>
 <Name>Alimentatore Apple da 70 W con porta USB-C MXN53ZM/A</Name>
 <Brand>APPLE</Brand>
 <Description>Alimentatore Apple da 70 W con porta USB-C - Nuovo Grazie alla porta USB-C, questo alimentatore Apple E ideale per ricaricare dispositivi come i MacBook. Il caricabatterie eroga 70 watt di potenza, garantendo una ricarica super veloce.</Description>
@@ -830,6 +803,60 @@
 <Image3/>
 <Gender/>
 <Tag>Apple, USB-C, 20W, Charger</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Apple Alimentatore da 35W con Doppia Porta USB-C MW2K3ZM/A</Name>
+<Brand>APPLE</Brand>
+<Description>Questo adattatore offre una potenza di 35 watt e si adatta perfettamente ai tuoi dispositivi Apple, fornendo una ricarica sicura e affidabile.</Description>
+<OriginalPrice/>
+<Price>38.99</Price>
+<Code>DE44965141D</Code>
+<Link>https://bosaverna.de/it/products/apple-35w-dual-usb-c-port-power-adapter</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/e49fecb7e0f29b68c702385488694771.webp?v=1773355081&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>195949376733</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 35W, Dual Port</Tag>
+<Condition>new</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Power Adapter</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Apple Alimentatore da 35W con Doppia Porta USB-C MW2K3ZM/A</Name>
+<Brand>APPLE</Brand>
+<Description>Questo adattatore offre una potenza di 35 watt e si adatta perfettamente ai tuoi dispositivi Apple, fornendo una ricarica sicura e affidabile.</Description>
+<OriginalPrice/>
+<Price>38.99</Price>
+<Code>DE44965141D</Code>
+<Link>https://bosaverna.de/it/products/apple-35w-dual-usb-c-port-power-adapter</Link>
+<Stock>100</Stock>
+<Categories>Phone, Smartphone Chargers</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/e49fecb7e0f29b68c702385488694771.webp?v=1773355081&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>195949376733</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, USB-C, 35W, Dual Port</Tag>
 <Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore/>
