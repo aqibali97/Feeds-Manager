@@ -86,7 +86,7 @@
 <Brand>APPLE</Brand>
 <Description>Alimentatore Apple da 67 W con porta USB-C: il tuo compagno affidabile per una ricarica rapida. L'alimentatore Apple da 67 W con porta USB-C E la soluzione ideale per chi desidera un'esperienza di ricarica veloce, efficiente e sicura.</Description>
 <OriginalPrice/>
-<Price>54.99</Price>
+<Price>51.99</Price>
 <Code>DE449651515</Code>
 <Link>https://bosaverna.de/it/products/apple-67w-adapter</Link>
 <Stock>100</Stock>
@@ -167,7 +167,7 @@
 <Brand>APPLE</Brand>
 <Description>La condizione del prodotto è ricondizionato (usato). L'articolo è perfettamente funzionante. Goditi la cancellazione attiva del rumore e l'audio 3D personalizzato.</Description>
 <OriginalPrice/>
-<Price>139.99</Price>
+<Price>179.49</Price>
 <Code>DEE8512831158</Code>
 <Link>https://bosaverna.de/it/products/jbl-tune-510bt-weiss-copy</Link>
 <Stock>100</Stock>
@@ -487,11 +487,11 @@
 <ageGroup/>
 </Offer>
 <Offer>
-<Name>Apple POWER ADAPTER 61W (MRW22ZM/A)</Name>
+<Name>Apple ALIMENTATORE 61W (MRW22ZM/A)</Name>
 <Brand>APPLE</Brand>
 <Description>ALIMENTATORE APPLE 61W - Il tuo alimentatore affidabile per una ricarica veloce ed efficiente dei tuoi dispositivi Apple.</Description>
 <OriginalPrice/>
-<Price>37.99</Price>
+<Price>41.99</Price>
 <Code>DE449651499</Code>
 <Link>https://bosaverna.de/it/products/apple-61w-adapter</Link>
 <Stock>100</Stock>
@@ -518,7 +518,7 @@
 <Brand>APPLE</Brand>
 <Description>ALIMENTATORE APPLE 61W - Il tuo alimentatore affidabile per una ricarica veloce ed efficiente dei tuoi dispositivi Apple.</Description>
 <OriginalPrice/>
-<Price>37.99</Price>
+<Price>41.99</Price>
 <Code>DE449651499</Code>
 <Link>https://bosaverna.de/it/products/apple-61w-adapter</Link>
 <Stock>100</Stock>
@@ -862,6 +862,33 @@
 <CodiceProduttore/>
 <Tipologia>Power Adapter</Tipologia>
 <Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
+<ageGroup/>
+</Offer>
+<Offer>
+<Name>Apple AirPods Pro 2 con custodia di ricarica MagSafe Lightning ricondizionate</Name>
+<Brand>APPLE</Brand>
+<Description>Gli AirPods Pro (2a generazione) sono stati riprogettati e offrono una cancellazione attiva del rumore fino a 2 volte migliore. L'Adaptive Transparenza filtra i suoni esterni mentre ti immergi nell'audio personalizzato 3D.</Description>
+<OriginalPrice/>
+<Price>174.49</Price>
+<Code>DEE85128311591</Code>
+<Link>https://bosaverna.de/it/products/airpods-pro-2nd-generation-2023-magsafe-case-usb-c-refurbished-copy</Link>
+<Stock>100</Stock>
+<Categories>headphones</Categories>
+<Image>https://bosaverna.de/cdn/shop/files/AIRPODSPRO2ndgenerationLightning_REFURBISHED_front.jpg?v=1776905136&amp;width=600</Image>
+<ShippingCost>3.00</ShippingCost>
+<EanCode>194253397472</EanCode>
+<Size/>
+<Color/>
+<Material/>
+<Image2/>
+<Image3/>
+<Gender/>
+<Tag>Apple, AirPods Pro, Headphones, MagSafe</Tag>
+<Condition>refurbished</Condition>
+<Minsan/>
+<CodiceProduttore/>
+<Tipologia>Headphones</Tipologia>
+<Category>Electronics > Audio > Headphones &amp; Earbuds</Category>
 <ageGroup/>
 </Offer>
 </Products>
