@@ -668,7 +668,7 @@
 <Image3/>
 <Gender/>
 <Tag>Apple, AirPods Pro, Headphones, MagSafe</Tag>
-<Condition>refurbished</Condition>
+<Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore/>
 <Tipologia>Headphones</Tipologia>
@@ -695,7 +695,7 @@
 <Image3/>
 <Gender/>
 <Tag>Apple, AirPods Pro, Headphones</Tag>
-<Condition>refurbished</Condition>
+<Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore/>
 <Tipologia>Headphones</Tipologia>
@@ -703,14 +703,14 @@
 <ageGroup/>
 </Offer>
 <Offer>
-<Name>Apple AirPods 4 Cancellazione attiva del rumore</Name>
+<Name>Apple AirPods 4 con Cancellazione Rumore (ANC)</Name>
 <Brand>APPLE</Brand>
-<Description>Prodotto ricondizionato (usato), testato e perfettamente funzionante. Gli Apple AirPods 4 con cancellazione attiva del rumore offrono un'esperienza audio di alta qualità grazie al chip Apple H2. Dotati di cancellazione attiva del rumore (ANC), modalità Trasparenza, Audio adattivo e audio spaziale personalizzato. Il design aperto garantisce comfort e praticità, mentre la resistenza IP54 protegge da polvere, sudore e schizzi d'acqua. Tecnologia originale Apple a un prezzo più conveniente.</Description>
+<Description>Apple AirPods 4 con Cancellazione Rumore (ANC)</Description>
 <OriginalPrice/>
 <Price>138.99</Price>
-<Code>DEE8512831162</Code>
+<Code>DEE85128311621</Code>
 <Link>https://bosaverna.de/it/products/apple-airpods-4-anc</Link>
-<Stock>20</Stock>
+<Stock>100</Stock>
 <Categories>headphones</Categories>
 <Image>https://bosaverna.de/cdn/shop/files/AppleAirPods4ANCTrueWireless-Headset-weiss-1.png?v=1781456049&amp;width=600</Image>
 <ShippingCost>3.00</ShippingCost>
@@ -722,7 +722,7 @@
 <Image3/>
 <Gender/>
 <Tag>Apple, AirPods 4, ANC, Headphones</Tag>
-<Condition>refurbished</Condition>
+<Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore>MXP93LL/A</CodiceProduttore>
 <Tipologia>Headphones</Tipologia>
