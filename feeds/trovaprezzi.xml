@@ -194,7 +194,7 @@
 <Brand>APPLE</Brand>
 <Description>Apple 60W Alimentatore MagSafe 2 MD565Z/A</Description>
 <OriginalPrice/>
-<Price>58.99</Price>
+<Price>55.99</Price>
 <Code>DE449651623</Code>
 <Link>https://bosaverna.de/it/products/apple-60w-magsafe-2-power-adapter-md565z-a</Link>
 <Stock>100</Stock>
@@ -275,7 +275,7 @@
 <Brand>APPLE</Brand>
 <Description>Alimentatore Apple da 70 W con porta USB-C - Nuovo Grazie alla porta USB-C, questo alimentatore Apple E ideale per ricaricare dispositivi come i MacBook. Il caricabatterie eroga 70 watt di potenza, garantendo una ricarica super veloce.</Description>
 <OriginalPrice/>
-<Price>51.99</Price>
+<Price>46.99</Price>
 <Code>DE449651500D2</Code>
 <Link>https://bosaverna.de/it/products/apple-70w-usb-c-power-adapter-mxn53zm-a</Link>
 <Stock>100</Stock>
@@ -302,7 +302,7 @@
 <Brand>APPLE</Brand>
 <Description>Alimentatore Apple da 70 W con porta USB-C - Nuovo Grazie alla porta USB-C, questo alimentatore Apple E ideale per ricaricare dispositivi come i MacBook. Il caricabatterie eroga 70 watt di potenza, garantendo una ricarica super veloce.</Description>
 <OriginalPrice/>
-<Price>51.99</Price>
+<Price>46.99</Price>
 <Code>DE449651539D</Code>
 <Link>https://bosaverna.de/it/products/apple-70w-usb-c-power-adapter-mqln3zm-a</Link>
 <Stock>100</Stock>
@@ -491,7 +491,7 @@
 <Brand>APPLE</Brand>
 <Description>Gli AirPods Pro (2a generazione) sono stati riprogettati e offrono una cancellazione attiva del rumore fino a 2 volte migliore. L'Adaptive Transparenza filtra i suoni esterni mentre ti immergi nell'audio personalizzato 3D.</Description>
 <OriginalPrice/>
-<Price>179.99</Price>
+<Price>176.99</Price>
 <Code>DEE85128311591</Code>
 <Link>https://bosaverna.de/it/products/airpods-pro-2nd-generation-lightning</Link>
 <Stock>100</Stock>
@@ -518,7 +518,7 @@
 <Brand>APPLE</Brand>
 <Description>La condizione del prodotto è ricondizionato (usato). L'articolo è perfettamente funzionante. Goditi la cancellazione attiva del rumore e l'audio 3D personalizzato.</Description>
 <OriginalPrice/>
-<Price>182.99</Price>
+<Price>178.99</Price>
 <Code>DEE8512831158</Code>
 <Link>https://bosaverna.de/it/products/apple-airpods-pro-2nd-generation</Link>
 <Stock>100</Stock>
@@ -682,10 +682,10 @@
 <OriginalPrice/>
 <Price>50.99</Price>
 <Code>DE449651516</Code>
-<Link>https://bosaverna.de/it/products/apple-96w-adapter?_pos=1&_psq=Apple+96W+USB-C+Power+Adapter&_ss=e&_v=1.0</Link>
+<Link>https://bosaverna.de/it/products/apple-96w-adapter?_pos=1&amp;_psq=Apple+96W+USB-C+Power+Adapter&amp;_ss=e&amp;_v=1.0</Link>
 <Stock>100</Stock>
 <Categories>Phone Smartphone Chargers</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/Apple96WUSB-CPowerAdapter.jpg?v=1771101924&width=800</Image>
+<Image>https://bosaverna.de/cdn/shop/files/Apple96WUSB-CPowerAdapter.jpg?v=1771101924&amp;width=800</Image>
 <ShippingCost>3.00</ShippingCost>
 <EanCode>190199351332</EanCode>
 <Size/>
@@ -698,8 +698,8 @@
 <Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore/>
-<Tipologia>Power Adapter & Cable Bundle</Tipologia>
-<Category>Electronics > Electronics Accessories > Power > Power Adapters & Chargers</Category>
+<Tipologia>Power Adapter &amp; Cable Bundle</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
 <ageGroup/>
 </Offer>
 <Offer>
@@ -709,10 +709,10 @@
 <OriginalPrice/>
 <Price>50.99</Price>
 <Code>DE449651516D</Code>
-<Link>https://bosaverna.de/it/products/apple-96w-adapter?_pos=1&_psq=Apple+96W+USB-C+Power+Adapter&_ss=e&_v=1.0</Link>
+<Link>https://bosaverna.de/it/products/apple-96w-adapter?_pos=1&amp;_psq=Apple+96W+USB-C+Power+Adapter&amp;_ss=e&amp;_v=1.0</Link>
 <Stock>100</Stock>
 <Categories>Phone Smartphone Chargers</Categories>
-<Image>https://bosaverna.de/cdn/shop/files/Apple96WUSB-CPowerAdapter.jpg?v=1771101924&width=800</Image>
+<Image>https://bosaverna.de/cdn/shop/files/Apple96WUSB-CPowerAdapter.jpg?v=1771101924&amp;width=800</Image>
 <ShippingCost>3.00</ShippingCost>
 <EanCode>195949376924</EanCode>
 <Size/>
@@ -725,8 +725,8 @@
 <Condition>new</Condition>
 <Minsan/>
 <CodiceProduttore/>
-<Tipologia>Power Adapter & Cable Bundle</Tipologia>
-<Category>Electronics > Electronics Accessories > Power > Power Adapters & Chargers</Category>
+<Tipologia>Power Adapter &amp; Cable Bundle</Tipologia>
+<Category>Electronics > Electronics Accessories > Power > Power Adapters &amp; Chargers</Category>
 <ageGroup/>
 </Offer>
 </Products>
